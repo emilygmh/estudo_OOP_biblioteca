@@ -34,3 +34,6 @@ estudo_OOP_biblioteca/
    ```bash
    git clone https://github.com/seu-usuario/estudo_OOP_biblioteca.git
    cd estudo_OOP_biblioteca
+
+autor:
+# EMILY GABRIELLI
