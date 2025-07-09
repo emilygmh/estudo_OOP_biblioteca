@@ -1,0 +1,13 @@
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.env/
+
+# Arquivos de configuração do editor
+.
